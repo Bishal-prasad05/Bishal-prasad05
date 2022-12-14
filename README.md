@@ -8,7 +8,7 @@
 Bishal-prasad05/Bishal-prasad05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">:seedling:👋 Hi, I’m @Bishal-prasad05 </h1>
+<h1 align="center">:seedling:👋 Hi, I’m Bishal Prasad </h1>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bishal-prasad05&label=Profile%20views&color=0e75b6&style=flat" alt="Bishal-prasad05" /> </p>
  
